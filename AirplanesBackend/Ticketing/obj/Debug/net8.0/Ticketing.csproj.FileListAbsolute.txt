@@ -1,0 +1,5 @@
+C:\Users\Vuko\Desktop\AirplanesBackend\Ticketing\obj\Debug\net8.0\Ticketing.csproj.AssemblyReference.cache
+C:\Users\Vuko\Desktop\AirplanesBackend\Ticketing\obj\Debug\net8.0\Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vuko\Desktop\AirplanesBackend\Ticketing\obj\Debug\net8.0\Ticketing.AssemblyInfoInputs.cache
+C:\Users\Vuko\Desktop\AirplanesBackend\Ticketing\obj\Debug\net8.0\Ticketing.AssemblyInfo.cs
+C:\Users\Vuko\Desktop\AirplanesBackend\Ticketing\obj\Debug\net8.0\Ticketing.csproj.CoreCompileInputs.cache

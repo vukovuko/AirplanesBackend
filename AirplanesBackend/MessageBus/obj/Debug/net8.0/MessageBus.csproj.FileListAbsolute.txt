@@ -1,0 +1,11 @@
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\bin\Debug\net8.0\MessageBus.deps.json
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\bin\Debug\net8.0\MessageBus.dll
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\bin\Debug\net8.0\MessageBus.pdb
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\MessageBus.AssemblyInfoInputs.cache
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\MessageBus.AssemblyInfo.cs
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\MessageBus.dll
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\refint\MessageBus.dll
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\MessageBus.pdb
+C:\Users\Vuko\Desktop\AirplanesBackend\MessageBus\obj\Debug\net8.0\ref\MessageBus.dll

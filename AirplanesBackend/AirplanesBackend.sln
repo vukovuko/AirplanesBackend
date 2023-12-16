@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrations", "Integrations\Integrations.csproj", "{3378D059-2DD4-4EFD-91F9-145C7D5731AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integrations", "Integrations", "{09294FC3-BA95-4137-BE97-A6E60BD88876}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MessageBus", "MessageBus", "{AB8C7177-DB06-46DE-99E1-255BAC08A072}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{CBCCA491-A85D-4E09-9584-BDE4B8717B83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Airplanes", "Airplanes", "{76452E35-A767-4AEF-A3F8-FC0CBB77CC01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ticketing", "Ticketing", "{9EFE3B22-8217-40F6-B2B3-87A5CC7A63F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBus", "MessageBus\MessageBus.csproj", "{AE9709F9-8E81-411B-AC92-C5548E1907E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airplanes", "Airplanes\Airplanes.csproj", "{A518674E-BDD9-460A-869E-92C1EB695415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing", "Ticketing\Ticketing.csproj", "{81A0ED78-B6FD-4F8E-8EDD-3529F75DBC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3378D059-2DD4-4EFD-91F9-145C7D5731AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3378D059-2DD4-4EFD-91F9-145C7D5731AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3378D059-2DD4-4EFD-91F9-145C7D5731AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3378D059-2DD4-4EFD-91F9-145C7D5731AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9709F9-8E81-411B-AC92-C5548E1907E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9709F9-8E81-411B-AC92-C5548E1907E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9709F9-8E81-411B-AC92-C5548E1907E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9709F9-8E81-411B-AC92-C5548E1907E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A518674E-BDD9-460A-869E-92C1EB695415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A518674E-BDD9-460A-869E-92C1EB695415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A518674E-BDD9-460A-869E-92C1EB695415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A518674E-BDD9-460A-869E-92C1EB695415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A0ED78-B6FD-4F8E-8EDD-3529F75DBC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A0ED78-B6FD-4F8E-8EDD-3529F75DBC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A0ED78-B6FD-4F8E-8EDD-3529F75DBC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A0ED78-B6FD-4F8E-8EDD-3529F75DBC39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3378D059-2DD4-4EFD-91F9-145C7D5731AC} = {09294FC3-BA95-4137-BE97-A6E60BD88876}
+		{76452E35-A767-4AEF-A3F8-FC0CBB77CC01} = {CBCCA491-A85D-4E09-9584-BDE4B8717B83}
+		{9EFE3B22-8217-40F6-B2B3-87A5CC7A63F9} = {CBCCA491-A85D-4E09-9584-BDE4B8717B83}
+		{AE9709F9-8E81-411B-AC92-C5548E1907E7} = {AB8C7177-DB06-46DE-99E1-255BAC08A072}
+		{A518674E-BDD9-460A-869E-92C1EB695415} = {76452E35-A767-4AEF-A3F8-FC0CBB77CC01}
+		{81A0ED78-B6FD-4F8E-8EDD-3529F75DBC39} = {9EFE3B22-8217-40F6-B2B3-87A5CC7A63F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69B7FDB-40AA-4053-BE8A-DEA7DD39CB7A}
+	EndGlobalSection
+EndGlobal

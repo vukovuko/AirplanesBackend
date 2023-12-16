@@ -1,0 +1,5 @@
+C:\Users\Vuko\Desktop\AirplanesBackend\Airplanes\obj\Debug\net8.0\Airplanes.csproj.AssemblyReference.cache
+C:\Users\Vuko\Desktop\AirplanesBackend\Airplanes\obj\Debug\net8.0\Airplanes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vuko\Desktop\AirplanesBackend\Airplanes\obj\Debug\net8.0\Airplanes.AssemblyInfoInputs.cache
+C:\Users\Vuko\Desktop\AirplanesBackend\Airplanes\obj\Debug\net8.0\Airplanes.AssemblyInfo.cs
+C:\Users\Vuko\Desktop\AirplanesBackend\Airplanes\obj\Debug\net8.0\Airplanes.csproj.CoreCompileInputs.cache
