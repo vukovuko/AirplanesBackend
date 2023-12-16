@@ -8,7 +8,7 @@ namespace Ticketing.Controllers
     /// Getters used for paging and displaying ticket details for users.
     /// </summary>
     [ApiController]
-    [Route("tickets")]
+    [Route("ticketsssssssssss")]
     public class TicketingController : ControllerBase
     {
         // List of all tickets currently in cache.
